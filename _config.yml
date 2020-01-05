@@ -127,7 +127,7 @@ menu:
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
-  albums: http://hua.bz || camera
+  Albums: http://hua.bz || camera
   # et@github: http://github.com/cedricporter || github
   about: /about-me/ || user
 
